@@ -4,6 +4,7 @@
 [![Jenkins Build Status](https://jenkins.dockerproject.org/view/Swarm/job/Swarm%20Master/badge/icon)](https://jenkins.dockerproject.org/view/Swarm/job/Swarm%20Master/)
 [![Build Status](https://travis-ci.org/docker/swarm.svg?branch=master)](https://travis-ci.org/docker/swarm)
 [![Go Report Card](https://goreportcard.com/badge/github.com/docker/swarm)](https://goreportcard.com/report/github.com/docker/swarm)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fswarm.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fswarm?ref=badge_shield)
 
 ![Docker Swarm Logo](logo.png?raw=true "Docker Swarm Logo")
 
@@ -77,3 +78,6 @@ is released under the Apache 2.0 license. The README.md file, and files in the
 International License under the terms and conditions set forth in the file
 "LICENSE.docs". You may obtain a duplicate copy of the same license, titled
 CC-BY-SA-4.0, at http://creativecommons.org/licenses/by/4.0/.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fswarm.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fswarm?ref=badge_large)
